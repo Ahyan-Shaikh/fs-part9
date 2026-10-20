@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "esModuleInterop": true,
+    "allowImportingTsExtensions": true,
+    "module": "nodenext",
+    "noImplicitAny": true,
+    "noEmit": true,
+  }
+}

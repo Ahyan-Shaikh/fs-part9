@@ -1,0 +1,1 @@
+export const isValidNumber = (n: number | string) => !isNaN(Number(n));
